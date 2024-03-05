@@ -4,5 +4,6 @@
     ],
     "editor.tokenColorCustomizations": {
         
-    }
+    },
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
 }
